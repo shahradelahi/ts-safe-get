@@ -1,0 +1,1 @@
+# ts-safe-get
