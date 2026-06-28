@@ -1,6 +1,6 @@
 {
   "name": "@se-oss/safe-get",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Lightweight, secure, and type-safe nested property retriever supporting bracket notation and function context binding.",
   "keywords": [
     "safe-get",
